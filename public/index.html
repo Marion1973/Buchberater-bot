@@ -308,14 +308,12 @@
   </div>
 
   <script>
-    const chatBox = document.getElementById("chatBox");
-    const messageInput = document.getElementById("messageInput");
-    const sendBtn = document.getElementById("sendBtn");
-    const clearBtn = document.getElementById("clearBtn");
-    const emailBtn = document.getElementById("emailBtn");
-    const emailInput = document.getElementById("emailInput");
-    const emailStatus = document.getElementById("emailStatus");
-    const quickButtons = document.querySelectorAll(".quick-btn");
+    function scrollToEmail() {
+  const form = document.getElementById("emailCapture");
+  if (form) {
+    form.scrollIntoView({ behavior: "smooth" });
+  }
+}
 
     let history = [];
 
@@ -514,4 +512,5 @@
     renderHistory();
   </script>
 </body>
+
 </html>
