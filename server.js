@@ -9,7 +9,14 @@ console.log("KLAVIYO vorhanden:", !!process.env.KLAVIYO_API_KEY);
 console.log("LIST ID:", process.env.KLAVIYO_LIST_ID);
 const app = express();
 const port = process.env.PORT || 3000;
-
+app.use((req, res, next) => {
+  res.removeHeader("X-Frame-Options");
+  res.setHeader(
+    "Content-Security-Policy",
+    "frame-ancestors 'self' https://marionbender.com https://www.marionbender.com"
+  );
+  next();
+});
 app.use(cors());
 app.use(express.json());
 
@@ -246,3 +253,4 @@ app.listen(port, () => {
   console.log(`Server läuft auf http://localhost:${port}`);
 
 });
+
