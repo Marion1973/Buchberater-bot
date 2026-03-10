@@ -429,9 +429,17 @@
         typingRow.remove();
 
         const reply = data.reply || "Ich konnte gerade leider nicht antworten.";
-        history.push({ role: "assistant", content: reply });
-        saveHistory();
-        renderHistory();
+history.push({ role: "assistant", content: reply });
+saveHistory();
+renderHistory();
+
+if (
+  reply.toLowerCase().includes("leseprobe") ||
+  reply.toLowerCase().includes("kapitel") ||
+  reply.toLowerCase().includes("kostenlos")
+) {
+  scrollToEmail();
+}
       } catch (error) {
         typingRow.remove();
         const reply = "Gerade gab es ein technisches Problem. Versuch es bitte noch einmal.";
@@ -514,3 +522,4 @@
 </body>
 
 </html>
+
