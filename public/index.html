@@ -307,219 +307,229 @@
     </div>
   </div>
 
-  <script>
-    function scrollToEmail() {
-  const form = document.getElementById("emailCapture");
-  if (form) {
-    form.scrollIntoView({ behavior: "smooth" });
+ <script>
+  const chatBox = document.getElementById("chatBox");
+  const messageInput = document.getElementById("messageInput");
+  const sendBtn = document.getElementById("sendBtn");
+  const clearBtn = document.getElementById("clearBtn");
+  const emailInput = document.getElementById("emailInput");
+  const emailBtn = document.getElementById("emailBtn");
+  const emailStatus = document.getElementById("emailStatus");
+  const quickButtons = document.querySelectorAll(".quick-btn");
+
+  function scrollToEmail() {
+    const form = document.getElementById("emailCapture");
+    if (form) {
+      form.scrollIntoView({ behavior: "smooth" });
+    }
   }
-}
 
-    let history = [];
+  let history = [];
 
-    function saveHistory() {
-      localStorage.setItem("marion_buchberater_history", JSON.stringify(history));
+  function saveHistory() {
+    localStorage.setItem("marion_buchberater_history", JSON.stringify(history));
+  }
+
+  function loadHistory() {
+    const saved = localStorage.getItem("marion_buchberater_history");
+    if (!saved) return [];
+    try {
+      return JSON.parse(saved);
+    } catch {
+      return [];
+    }
+  }
+
+  function scrollToBottom() {
+    chatBox.scrollTop = chatBox.scrollHeight;
+  }
+
+  function addMessage(role, text) {
+    const row = document.createElement("div");
+    row.className = `message-row ${role}`;
+
+    const wrap = document.createElement("div");
+    wrap.className = "message-wrap";
+
+    const label = document.createElement("div");
+    label.className = "label";
+    label.textContent = role === "user" ? "Du" : "Buchberater";
+
+    const bubble = document.createElement("div");
+    bubble.className = "bubble";
+    bubble.textContent = text;
+
+    wrap.appendChild(label);
+    wrap.appendChild(bubble);
+    row.appendChild(wrap);
+    chatBox.appendChild(row);
+
+    scrollToBottom();
+    return row;
+  }
+
+  function addTyping() {
+    const row = document.createElement("div");
+    row.className = "message-row assistant";
+
+    const wrap = document.createElement("div");
+    wrap.className = "message-wrap";
+
+    const label = document.createElement("div");
+    label.className = "label";
+    label.textContent = "Buchberater";
+
+    const bubble = document.createElement("div");
+    bubble.className = "bubble typing";
+    bubble.textContent = "Ich denke gerade nach ...";
+
+    wrap.appendChild(label);
+    wrap.appendChild(bubble);
+    row.appendChild(wrap);
+    chatBox.appendChild(row);
+
+    scrollToBottom();
+    return row;
+  }
+
+  function renderHistory() {
+    chatBox.innerHTML = "";
+
+    if (history.length === 0) {
+      addMessage(
+        "assistant",
+        "Hallo, ich bin der Buchberater für Marion Benders Buch 'Aufstehen beginnt im Kopf'. Was beschäftigt dich gerade am meisten?"
+      );
+      return;
     }
 
-    function loadHistory() {
-      const saved = localStorage.getItem("marion_buchberater_history");
-      if (!saved) return [];
-      try {
-        return JSON.parse(saved);
-      } catch {
-        return [];
-      }
-    }
+    history.forEach((item) => {
+      addMessage(item.role, item.content);
+    });
+  }
 
-    function scrollToBottom() {
-      chatBox.scrollTop = chatBox.scrollHeight;
-    }
+  async function sendMessage(prefilledMessage = null) {
+    const message = (prefilledMessage ?? messageInput.value).trim();
+    if (!message) return;
 
-    function addMessage(role, text) {
-      const row = document.createElement("div");
-      row.className = `message-row ${role}`;
+    history.push({ role: "user", content: message });
+    saveHistory();
+    renderHistory();
 
-      const wrap = document.createElement("div");
-      wrap.className = "message-wrap";
+    messageInput.value = "";
+    messageInput.focus();
+    sendBtn.disabled = true;
 
-      const label = document.createElement("div");
-      label.className = "label";
-      label.textContent = role === "user" ? "Du" : "Buchberater";
+    const typingRow = addTyping();
 
-      const bubble = document.createElement("div");
-      bubble.className = "bubble";
-      bubble.textContent = text;
-
-      wrap.appendChild(label);
-      wrap.appendChild(bubble);
-      row.appendChild(wrap);
-      chatBox.appendChild(row);
-
-      scrollToBottom();
-      return row;
-    }
-
-    function addTyping() {
-      const row = document.createElement("div");
-      row.className = "message-row assistant";
-
-      const wrap = document.createElement("div");
-      wrap.className = "message-wrap";
-
-      const label = document.createElement("div");
-      label.className = "label";
-      label.textContent = "Buchberater";
-
-      const bubble = document.createElement("div");
-      bubble.className = "bubble typing";
-      bubble.textContent = "Ich denke gerade nach ...";
-
-      wrap.appendChild(label);
-      wrap.appendChild(bubble);
-      row.appendChild(wrap);
-      chatBox.appendChild(row);
-
-      scrollToBottom();
-      return row;
-    }
-
-    function renderHistory() {
-      chatBox.innerHTML = "";
-
-      if (history.length === 0) {
-        addMessage(
-          "assistant",
-          "Hallo, ich bin der Buchberater für Marion Benders Buch 'Aufstehen beginnt im Kopf'. Was beschäftigt dich gerade am meisten?"
-        );
-        return;
-      }
-
-      history.forEach((item) => {
-        addMessage(item.role, item.content);
+    try {
+      const res = await fetch("/chat", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+          message,
+          history
+        })
       });
-    }
 
-    async function sendMessage(prefilledMessage = null) {
-      const message = (prefilledMessage ?? messageInput.value).trim();
-      if (!message) return;
+      const data = await res.json();
+      typingRow.remove();
 
-      history.push({ role: "user", content: message });
+      const reply = data.reply || "Ich konnte gerade leider nicht antworten.";
+      history.push({ role: "assistant", content: reply });
       saveHistory();
       renderHistory();
 
-      messageInput.value = "";
-      messageInput.focus();
-      sendBtn.disabled = true;
+      if (
+        reply.toLowerCase().includes("leseprobe") ||
+        reply.toLowerCase().includes("kapitel") ||
+        reply.toLowerCase().includes("kostenlos")
+      ) {
+        scrollToEmail();
+      }
+    } catch (error) {
+      typingRow.remove();
+      const reply = "Gerade gab es ein technisches Problem. Versuch es bitte noch einmal.";
+      history.push({ role: "assistant", content: reply });
+      saveHistory();
+      renderHistory();
+    } finally {
+      sendBtn.disabled = false;
+    }
+  }
 
-      const typingRow = addTyping();
+  async function sendEmail() {
+    const email = emailInput.value.trim();
 
-      try {
-        const res = await fetch("/chat", {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json"
-          },
-          body: JSON.stringify({
-            message,
-            history
-          })
+    if (!email || !email.includes("@")) {
+      emailStatus.textContent = "Bitte gib zuerst eine gültige E-Mail-Adresse ein.";
+      return;
+    }
+
+    emailBtn.disabled = true;
+    emailStatus.textContent = "Ich verarbeite deine Anfrage gerade ...";
+
+    try {
+      const res = await fetch("/save-email", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({ email })
+      });
+
+      const data = await res.json();
+
+      if (data.success) {
+        emailStatus.textContent = "Danke! Deine Anfrage wurde an Klaviyo übergeben. Bitte schau jetzt in dein Postfach.";
+        history.push({
+          role: "assistant",
+          content: "Sehr gern. Deine Anfrage für das erste Kapitel ist eingegangen. Falls eine Bestätigungsmail kommt, bestätige sie bitte kurz. Danach bekommst du die Leseprobe zugeschickt."
         });
-
-        const data = await res.json();
-        typingRow.remove();
-
-        const reply = data.reply || "Ich konnte gerade leider nicht antworten.";
-history.push({ role: "assistant", content: reply });
-saveHistory();
-renderHistory();
-
-if (
-  reply.toLowerCase().includes("leseprobe") ||
-  reply.toLowerCase().includes("kapitel") ||
-  reply.toLowerCase().includes("kostenlos")
-) {
-  scrollToEmail();
-}
-      } catch (error) {
-        typingRow.remove();
-        const reply = "Gerade gab es ein technisches Problem. Versuch es bitte noch einmal.";
-        history.push({ role: "assistant", content: reply });
         saveHistory();
         renderHistory();
-      } finally {
-        sendBtn.disabled = false;
+        emailInput.value = "";
+      } else {
+        emailStatus.textContent = data.message || "Klaviyo konnte die E-Mail nicht speichern.";
       }
+    } catch (error) {
+      emailStatus.textContent = "Gerade gab es ein technisches Problem bei der Anfrage.";
+    } finally {
+      emailBtn.disabled = false;
     }
+  }
 
-    async function sendEmail() {
-      const email = emailInput.value.trim();
+  sendBtn.addEventListener("click", () => sendMessage());
 
-      if (!email || !email.includes("@")) {
-        emailStatus.textContent = "Bitte gib zuerst eine gültige E-Mail-Adresse ein.";
-        return;
-      }
-
-      emailBtn.disabled = true;
-      emailStatus.textContent = "Ich verarbeite deine Anfrage gerade ...";
-
-      try {
-        const res = await fetch("/save-email", {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json"
-          },
-          body: JSON.stringify({ email })
-        });
-
-        const data = await res.json();
-
-        if (data.success) {
-          emailStatus.textContent = "Danke! Deine Anfrage wurde an Klaviyo übergeben. Bitte schau jetzt in dein Postfach.";
-          history.push({
-            role: "assistant",
-            content: "Sehr gern. Deine Anfrage für das erste Kapitel ist eingegangen. Falls eine Bestätigungsmail kommt, bestätige sie bitte kurz. Danach bekommst du die Leseprobe zugeschickt."
-          });
-          saveHistory();
-          renderHistory();
-          emailInput.value = "";
-        } else {
-          emailStatus.textContent = data.message || "Klaviyo konnte die E-Mail nicht speichern.";
-        }
-      } catch (error) {
-        emailStatus.textContent = "Gerade gab es ein technisches Problem bei der Anfrage.";
-      } finally {
-        emailBtn.disabled = false;
-      }
+  messageInput.addEventListener("keydown", (event) => {
+    if (event.key === "Enter" && !event.shiftKey) {
+      event.preventDefault();
+      sendMessage();
     }
+  });
 
-    sendBtn.addEventListener("click", () => sendMessage());
-
-    messageInput.addEventListener("keydown", (event) => {
-      if (event.key === "Enter" && !event.shiftKey) {
-        event.preventDefault();
-        sendMessage();
-      }
+  quickButtons.forEach((btn) => {
+    btn.addEventListener("click", () => {
+      sendMessage(btn.dataset.question);
     });
+  });
 
-    quickButtons.forEach((btn) => {
-      btn.addEventListener("click", () => {
-        sendMessage(btn.dataset.question);
-      });
-    });
-
-    clearBtn.addEventListener("click", () => {
-      history = [];
-      localStorage.removeItem("marion_buchberater_history");
-      renderHistory();
-      emailStatus.textContent = "";
-    });
-
-    emailBtn.addEventListener("click", sendEmail);
-
-    history = loadHistory();
+  clearBtn.addEventListener("click", () => {
+    history = [];
+    localStorage.removeItem("marion_buchberater_history");
     renderHistory();
-  </script>
+    emailStatus.textContent = "";
+  });
+
+  emailBtn.addEventListener("click", sendEmail);
+
+  history = loadHistory();
+  renderHistory();
+</script>
 </body>
 
 </html>
+
 
