@@ -205,6 +205,18 @@ app.post("/chat", chatRateLimit, async (req, res) => {
       });
     }
 
+    if (/\bkapitel\s*(?:nr\.?\s*)?\d+\b/i.test(message)) {
+      return res.json({
+        reply: "Die Abschnitte des Buches sind in der geprüften Satzdatei nicht nummeriert. Deshalb kann ich einer Kapitelnummer keinen verlässlichen Titel zuordnen. Wenn du mir stattdessen ein Thema oder einen Abschnittstitel nennst, helfe ich dir gern weiter."
+      });
+    }
+
+    if (/\b(?:seite|seitenzahl|seitennummer)\b/i.test(message)) {
+      return res.json({
+        reply: "Dazu habe ich keine verifizierte Seitenangabe. Seitenzahlen können sich außerdem je nach Ausgabe unterscheiden. Ich möchte dir deshalb keine Zahl nennen, die möglicherweise falsch ist."
+      });
+    }
+
     const safeHistory = history
       .slice(-10)
       .filter((item) => item && ["user", "assistant"].includes(item.role))

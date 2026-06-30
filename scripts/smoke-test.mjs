@@ -54,6 +54,20 @@ try {
     body: JSON.stringify({ message: "x".repeat(1001) })
   }, 400);
 
+  const chapterResponse = await fetch(`http://127.0.0.1:${port}/chat`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ message: "Wie heißt Kapitel 7?" })
+  });
+  const chapterData = await chapterResponse.json();
+  if (
+    chapterResponse.status !== 200 ||
+    !chapterData.reply.includes("nicht nummeriert") ||
+    chapterData.reply.includes("Rücksicht beginnt")
+  ) {
+    throw new Error("Kapitelnummern-Sperre ist nicht wirksam.");
+  }
+
   await expectStatus("/save-email", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
