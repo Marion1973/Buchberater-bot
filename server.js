@@ -25,6 +25,8 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const allowedOrigins = new Set([
   "https://marionbender.com",
   "https://www.marionbender.com",
+  "https://kopfhoch-verlag.de",
+  "https://www.kopfhoch-verlag.de",
   "https://buchberater-bot.onrender.com",
   process.env.APP_ORIGIN
 ].filter(Boolean));
@@ -35,7 +37,7 @@ app.use((req, res, next) => {
   res.removeHeader("X-Frame-Options");
   res.setHeader(
     "Content-Security-Policy",
-    "frame-ancestors 'self' https://marionbender.com https://www.marionbender.com"
+    "frame-ancestors 'self' https://marionbender.com https://www.marionbender.com https://kopfhoch-verlag.de https://www.kopfhoch-verlag.de"
   );
   res.setHeader("X-Content-Type-Options", "nosniff");
   res.setHeader("Referrer-Policy", "strict-origin-when-cross-origin");

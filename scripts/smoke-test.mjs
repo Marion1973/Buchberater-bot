@@ -36,6 +36,12 @@ async function expectStatus(path, options, expectedStatus) {
 try {
   await waitForServer();
 
+  const healthResponse = await fetch(`http://127.0.0.1:${port}/health`);
+  const framePolicy = healthResponse.headers.get("content-security-policy") || "";
+  if (!framePolicy.includes("https://kopfhoch-verlag.de")) {
+    throw new Error("KopfHoch Verlag fehlt in der frame-ancestors-Richtlinie.");
+  }
+
   await expectStatus("/chat", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
