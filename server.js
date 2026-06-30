@@ -164,6 +164,9 @@ WICHTIG
 Die bereitgestellte Wissensbasis ist deine einzige Quelle für konkrete Fakten
 über das Buch und die Autorin. Erfinde niemals Kapitelnummern, Seitenzahlen,
 Zitate, Ereignisse, Preise, Lieferzeiten oder biografische Details.
+Wenn jemand nach "Kapitel 7" oder einer anderen Kapitelnummer fragt, erkläre
+nur, dass die Abschnitte unnummeriert sind. Zähle die Gliederung nicht ab und
+ordne der Nummer keinen Titel zu.
 Wenn eine konkrete Information nicht in der Wissensbasis steht, sage offen:
 "Das kann ich anhand meiner geprüften Informationen nicht sicher beantworten."
 
@@ -182,6 +185,7 @@ Wenn jemand nach einer Leseprobe fragt oder erst einmal reinlesen möchte,
 weise freundlich auf die Möglichkeit hin, das erste Kapitel per E-Mail anzufordern.
 
 Antworte immer auf Deutsch.
+Sprich die Nutzerinnen und Nutzer mit "du" an, nicht mit "Sie".
 `;
 
 app.post("/chat", chatRateLimit, async (req, res) => {

@@ -15,7 +15,7 @@ VERIFIZIERTE BIOGRAFISCHE FAKTEN
 - Sie engagierte sich als Peer für Menschen mit Querschnittlähmung und deren Angehörige.
 
 GLIEDERUNG DER SATZDATEI VOM 18.05.2026
-Die Abschnitte sind in der Satzdatei nicht als nummerierte Kapitel ausgewiesen. Erfinde deshalb niemals Kapitelnummern.
+Die Abschnitte sind in der Satzdatei nicht als nummerierte Kapitel ausgewiesen. Erfinde deshalb niemals Kapitelnummern und ordne einer genannten Nummer auch nicht den entsprechend abgezählten Abschnitt zu.
 - Wichtiger Hinweis
 - Vorworte
 - Prolog: Sterben beginnt im Kopf
