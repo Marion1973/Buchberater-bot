@@ -1,7 +1,9 @@
-# Social-Media-Marketingkonzept KopfHochVerlag
+# Social-Media-Marketingkonzept KopfHoch Verlag
 ### Facebook · Instagram · LinkedIn – Vermarktung der Bücher im eigenen Shop (marionbender.com)
 
 Stand: 31.07.2026
+
+**Abgrenzung:** Dieses Konzept behandelt ausschließlich die **Verlagsmarke KopfHoch Verlag** (Eigentümer: Werner Zimmer) und die Vermarktung der Bücher im eigenen Shop. Marion Bender ist die **Autorin** des Buchs „Aufstehen beginnt im Kopf" und liefert als solche die Geschichten/Inhalte – sie hat jedoch für ihre Tätigkeit als **Rednerin** ein eigenes, separates Marketingkonzept. Vortragsbuchungen, Redner:innen-Positionierung und alles, was ihre persönliche Sprecherinnen-Marke betrifft, sind hier bewusst **nicht** Gegenstand; wo die frühere Fassung dieses Dokuments LinkedIn über eine Redner-Funnel-Logik begründet hatte, wurde das entsprechend korrigiert (siehe Abschnitt 7).
 
 ---
 
@@ -98,8 +100,8 @@ Steckt gerade in einer Veränderungsphase fest (Jobverlust, Trennung, Krankheit,
 **Persona B – „Die Schenkende"**
 Kennt jemanden, der gerade eine schwere Zeit durchmacht, und sucht ein Buch als bedeutungsvolles, nicht kitschiges Geschenk. Reagiert auf Zitate, Leseproben, Rezensionen Dritter. Hauptplattform: **Facebook**, sekundär Instagram.
 
-**Persona C – „Veranstalter/HR/Unternehmen"**
-Sucht Rednerinnen für Firmenevents, Diversity- oder Gesundheitstage, Reha-Einrichtungen, Selbsthilfegruppen, Schulen. Interessiert an Resilienz, Peer-Beratung, Inklusion. Hauptplattform: **LinkedIn**. Das Buch ist hier eher Referenz/Visitenkarte als Direktverkauf – der eigentliche Hebel ist Vortragsbuchung, die wiederum Buchverkäufe im Shop nach sich zieht.
+**Persona C – „Berufliches Umfeld: HR/Unternehmen/Einrichtungen"**
+Personalabteilungen, Gesundheitsmanagement, Reha-Einrichtungen, Selbsthilfegruppen, Schulen, die das Buch als Impuls für Resilienz-, Gesundheits- oder Inklusionsthemen einsetzen möchten – z. B. als Mengenbestellung für Mitarbeitende, als Give-away bei Gesundheitstagen oder als Empfehlung an Betroffene/Angehörige. Hauptplattform: **LinkedIn**. Ziel ist hier der **Buchverkauf im Shop** (auch in größerer Stückzahl), nicht die Buchung von Vorträgen – Letzteres läuft über Marion Benders eigenes Redner:innen-Marketing und ist nicht Teil dieses Konzepts.
 
 ---
 
@@ -110,7 +112,7 @@ Sechs wiederkehrende Säulen, jede mit klarem Verhältnis zwischen Storytelling 
 1. **„… beginnt im Kopf"-Reihe** – Kurzimpulse zu einem Gliederungsthema (z. B. Zuversicht, Heimat, Hoffnung) als Zitatkarte oder 30-Sekunden-Reel. Keine Kapitelnummern nennen, nur Themen.
 2. **Ehrliche Lebensgeschichte** – Auszüge/Nacherzählungen einzelner Stationen (Unfall, Reha, Rückkehr ins Berufsleben, Pferde/Kutschfahren, Peer-Arbeit) – immer als „das ist ein Ausschnitt, nicht das ganze Buch" gekennzeichnet.
 3. **Fragen statt Antworten** – Community-Posts, die zum Dialog einladen („Was hat dir geholfen, als du dich selbst aufgeben wolltest?"), ohne Druck, ohne Therapieanspruch.
-4. **Hinter den Kulissen** – Autorin im Alltag, Tiere, Vorträge, Peer-Beratung – macht Marion Bender als Person greifbar (wichtig für Vertrauen und für LinkedIn-Redner-Positionierung).
+4. **Hinter den Kulissen** – Autorin im Alltag, Tiere, Peer-Beratung – macht Marion Bender als Person greifbar und schafft Vertrauen in den Verlag und das Buch (nicht zu verwechseln mit ihrem separaten Redner:innen-Marketing).
 5. **Shop & Leseprobe** – klar gekennzeichnete Verkaufs-/Aktionsposts: Leseprobe anfordern, Buch bestellen, Bundle/Cross-Selling zwischen den sieben Produkten, Rezensionen zeigen. Bewusst dosiert, nie „aggressiv verkaufend" (siehe Abschnitt 2).
 6. **Podcast & Blog Repurposing** – wöchentliche Podcast-Folge und monatliche Blogartikel als Rohmaterial für alle drei Kanäle (Details siehe 4.2).
 
@@ -138,13 +140,13 @@ Aktuell werden Podcast (jeden Freitag neue Folge) und Blog (1–2×/Monat) **nic
 ## 5. Plattformstrategie Facebook
 
 ### 5.1 Rolle im Mix
-Facebook erreicht die reifste, kaufbereiteste Zielgruppe (35–65 Jahre), ist stark für **Community-Aufbau** (Gruppen für Angehörige/Peer-Austausch passt exakt zur Peer-Rolle der Autorin) und für **Shop-Traffic über Ads**. Empfehlung: eine **Facebook-Unternehmensseite „KopfHochVerlag"** (falls noch nicht vorhanden), verlinkt mit dem Autorinnen-Profil, plus mittelfristig eine **geschlossene Community-Gruppe** „Aufstehen beginnt im Kopf – Austausch" für Leser:innen und Angehörige.
+Facebook erreicht die reifste, kaufbereiteste Zielgruppe (35–65 Jahre), ist stark für **Community-Aufbau** (Gruppen für Angehörige/Peer-Austausch passt exakt zur Peer-Rolle der Autorin) und für **Shop-Traffic über Ads**. Empfehlung: eine **Facebook-Unternehmensseite „KopfHoch Verlag"** (falls noch nicht vorhanden), verlinkt mit dem Autorinnen-Profil, plus mittelfristig eine **geschlossene Community-Gruppe** „Aufstehen beginnt im Kopf – Austausch" für Leser:innen und Angehörige.
 
 ### 5.2 Content-Mix (3–4 Posts/Woche)
 - 1× Zitatkarte aus der „… beginnt im Kopf"-Reihe
 - 1× persönliche Geschichte/Lebensstation (Text + Foto)
 - 1× Community-Frage oder geteilter Leser-Kommentar (mit Einwilligung)
-- 1× Shop-/Leseprobe-CTA oder Veranstaltungshinweis (Lesung, Vortrag)
+- 1× Shop-/Leseprobe-CTA oder Hinweis auf eine Buchlesung (Vorträge sind Teil von Marion Benders separatem Redner:innen-Marketing und nicht Gegenstand dieses Konzepts)
 
 ### 5.3 Formate
 - Karussell-Posts mit Zitatserien
@@ -182,21 +184,21 @@ Mischung aus Nischenbegriffen (z. B. Querschnittlähmung, Peer-Beratung, Rehabil
 ## 7. Plattformstrategie LinkedIn
 
 ### 7.1 Rolle im Mix
-LinkedIn ist **nicht primär Buchverkauf**, sondern **Redner:innen- und Expertinnen-Positionierung**. Marion Bender ist bereits als Rednerin im Rollstuhl und Mutmacherin positioniert (siehe Systemprompt: „Marion Bender ist Autorin, Rednerin im Rollstuhl und Mutmacherin"). Das bestehende persönliche Profil ist der richtige Ort – zusätzlich sinnvoll: eine **LinkedIn-Unternehmensseite „KopfHochVerlag"**, um Verlag und Person sauber zu trennen und Buch-Content professionell zu bündeln.
+Wichtige Abgrenzung: Marion Bender betreibt für ihre Tätigkeit als Rednerin bereits ein **eigenes** Marketingkonzept – Vortragsbuchungen und Redner:innen-Positionierung sind **nicht** Gegenstand dieses Verlagskonzepts. Für den KopfHoch Verlag ist LinkedIn stattdessen ein **B2B-Vertriebskanal für den Buchverkauf**: HR-Abteilungen, Gesundheitsmanagement und Einrichtungen, die das Buch gezielt als Impuls einsetzen möchten (Persona C, Abschnitt 3). Empfehlung: eine eigene **LinkedIn-Unternehmensseite „KopfHoch Verlag"** aufbauen, getrennt von Marion Benders persönlichem (Redner:innen-)Profil, damit beide Marketingkonzepte sauber getrennt bleiben und sich nicht überschneiden.
 
 ### 7.2 Zielgruppen auf LinkedIn
-- HR-Verantwortliche, Event-/Tagungsorganisator:innen (Buchung von Vorträgen)
-- Führungskräfte im Kontext Resilienz, Diversity, Gesundheitsmanagement
-- Reha-Einrichtungen, Verbände, Bildungsträger
+- HR-Verantwortliche und Gesundheitsmanagement, die das Buch für Mitarbeitende beschaffen (Einzelexemplare oder Mengenbestellung als Gesundheitstag-/Willkommens-Give-away)
+- Führungskräfte, die sich privat mit Resilienz- und Veränderungsthemen befassen und im Shop kaufen
+- Reha-Einrichtungen, Verbände, Bildungsträger, die das Buch Betroffenen/Angehörigen empfehlen
 
 ### 7.3 Content-Mix (2–3 Posts/Woche, textlastiger als Instagram)
-- Persönliche Reflexionsposts zu Führungsthemen mit Bezug zu Resilienz/Veränderung (Ich-Perspektive, kein Ratgeberton)
-- Kurze Ausschnitte aus Vorträgen (Video, professionell geschnitten)
-- Referenzen/Feedback von Veranstaltern früherer Vorträge
-- Buch als „Visitenkarte" – dezente Erwähnung, Link in Kommentaren statt reißerischem Post-CTA (LinkedIn-Algorithmus bevorzugt Posts ohne externen Link im Hauptbeitrag)
+- Verlags-/Autoren-Einblicke: kurze Auszüge aus Blog oder Podcast mit fachlichem Bezug (Resilienz, Veränderung, Umgang mit Rückschlägen)
+- Sachliche Vorstellung des Buchs und der weiteren Verlagstitel im Kontext betrieblicher Gesundheitsförderung
+- Kundenstimmen/Rezensionen (z. B. die Amazon-Bewertung aus dem Shop, korrekt zitiert)
+- Buch als Produkt – dezente Erwähnung, Link in Kommentaren statt reißerischem Post-CTA (LinkedIn-Algorithmus bevorzugt Posts ohne externen Link im Hauptbeitrag)
 
 ### 7.4 Funnel-Logik
-LinkedIn → Vortragsanfrage/Kontakt → Vortrag hält zusätzliche Sichtbarkeit → Teilnehmende kaufen Buch im Shop. Buchverkauf ist hier Nebeneffekt, nicht Hauptziel – das unterscheidet die KPI-Logik deutlich von Facebook/Instagram (siehe Abschnitt 15).
+LinkedIn → Sichtbarkeit bei HR-/Gesundheitsmanagement-Zielgruppe → Kontaktaufnahme oder Direktbestellung im Shop (ggf. Mengenbestellung). Buchverkauf ist hier – anders als bei Marion Benders separatem Redner:innen-Marketing – das direkte Hauptziel.
 
 ---
 
@@ -204,10 +206,10 @@ LinkedIn → Vortragsanfrage/Kontakt → Vortrag hält zusätzliche Sichtbarkeit
 
 | Tag | Facebook | Instagram | LinkedIn |
 |---|---|---|---|
-| Mo | – | Story: Wochenimpuls | Reflexionspost |
+| Mo | – | Story: Wochenimpuls | Blog-/Podcast-Auszug |
 | Di | Zitatkarte | Reel | – |
 | Mi | Community-Frage | Story: Umfrage | – |
-| Do | – | Carousel | Vortrags-/Referenz-Post |
+| Do | – | Carousel | Buch-/Verlagsthema mit HR-Bezug |
 | Fr | Lebensstation/Auszug | Reel | – |
 | Sa | – | Story: Repost Leser-Feedback | – |
 | So | Shop-/Leseprobe-CTA | Feed-Grafik | – |
@@ -222,7 +224,7 @@ Monatlich ergänzt um: 1 größere Aktion (z. B. Themenwoche „Hilfe annehmen")
 - Talking-Head-Reel (15–30 Sek.)
 - Karussell „X Dinge, die geholfen haben"
 - Frage-Sticker / Umfrage (Story)
-- Vortragsausschnitt (LinkedIn/Instagram)
+- Podcast-Audiogramm / Blog-Zitatgrafik (LinkedIn/Instagram)
 - Leser-Feedback-Repost (mit Einwilligung)
 - Leseprobe-CTA-Post
 - Behind-the-Scenes (Alltag, Tiere, Peer-Beratung)
@@ -263,7 +265,7 @@ Der Buchberater-Chatbot ist ein einzigartiger Zwischenschritt: Social-Media-Traf
 ## 12. Paid-Media-Empfehlungen
 
 - **Instagram/Facebook Ads:** Budget zunächst auf Traffic zur Leseprobe statt Direktkauf – niedrigere Einstiegshürde, höhere Conversion in Klaviyo-Liste, spätere Konvertierung über E-Mail
-- **LinkedIn Ads:** eher sparsam einsetzen, primär als Sponsored Content für Vortragsangebote an HR-Zielgruppen, nicht für Buchverkauf
+- **LinkedIn Ads:** eher sparsam einsetzen, primär als Sponsored Content, der Buch/Verlag gezielt an HR-/Gesundheitsmanagement-Zielgruppen (Persona C) heranträgt – Ziel ist der Buchverkauf im Shop, nicht Vortragsbuchungen
 - **Retargeting:** Website-Besucher (Shop, Leseprobe-Seite) auf allen drei Plattformen
 - Kein Einsatz von Countdown-/Knappheits-Taktiken – widerspricht der Markenstimme („ohne Druck")
 
@@ -296,7 +298,7 @@ Da das Buchthema Querschnittlähmung, Mobbing und existenzielle Krisen berührt,
 |---|---|---|
 | Facebook | Klicks zur Leseprobe/Shop | Gruppenwachstum, Engagement-Rate |
 | Instagram | Reichweite/Profilbesuche über Reels | Story-Interaktionen, Leseprobe-Klicks |
-| LinkedIn | Vortragsanfragen/Kontaktaufnahmen | Post-Impressionen, Kommentare von Zielgruppe C |
+| LinkedIn | Klicks zum Shop / Kontaktaufnahmen von Persona C (HR/Unternehmen) | Post-Impressionen, Kommentare, Mengenbestellungen |
 
 Monatliches Reporting: Follower-Wachstum, Reichweite, Klicks zur Website, Leseprobe-Anmeldungen (Klaviyo), Shop-Conversions (falls per Analytics zuordenbar). **Wichtig:** aktuelle Ist-Werte müssen zunächst aus den echten Account-Insights nachgetragen werden (siehe 1.3).
 
@@ -314,8 +316,8 @@ Monatliches Reporting: Follower-Wachstum, Reichweite, Klicks zur Website, Lesepr
 - Erste kleine Ads-Tests (Traffic zur Leseprobe)
 - Facebook-Gruppe launchen (falls gewünscht)
 
-**Monat 3 – Vertiefung & Vorträge**
-- LinkedIn-Unternehmensseite aktiv bespielen, erste Vortragsausschnitte posten
+**Monat 3 – Vertiefung**
+- LinkedIn-Unternehmensseite aktiv bespielen, erste Podcast-/Blog-Repurposing-Posts veröffentlichen
 - Erste Kampagne rund um einen Anlass (z. B. saisonal, siehe Abschnitt 11)
 - Auswertung der ersten 90 Tage, Anpassung des Redaktionsplans anhand echter Daten
 
