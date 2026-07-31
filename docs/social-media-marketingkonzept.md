@@ -61,13 +61,19 @@ Der Shop verkauft **sieben Produkte** – deutlich mehr als nur das eine Buch, d
 - **Lead-Magnet:** kostenloses PDF des ersten Kapitels per E-Mail-Anmeldung (unverbindlich) – deckt sich mit der in `book-knowledge.js` beschriebenen Leseprobe.
 - **Geplant laut Website:** Online-Kurse („Kurse in Planung") – mittelfristig relevant für LinkedIn-B2B-Content und Instagram-Launch-Kampagnen.
 
-### 1.5 Bestehende Social-Media-Präsenz (zu verifizieren)
-Die Website selbst weist **keine Social-Media-Links** aus (weder Header noch Footer) – Facebook, Instagram und LinkedIn sind bislang nicht in die Website eingebunden. Eine separate Recherche deutet auf folgende, davon unabhängig bestehende **persönliche** Profile von Marion Bender hin:
-- Instagram: `@marion_bender_official`
-- LinkedIn: „Marion Bender" (persönliches Profil, positioniert als Rednerin)
-- Facebook: persönliches Profil unter dem Namen Marion Bender
+### 1.5 Bestehende Social-Media-Präsenz
+Die Website selbst weist bislang **keine Social-Media-Links** aus (weder Header noch Footer). Als Kanäle für den KopfHoch Verlag stehen die **persönlichen Profile des Verlagseigentümers Werner Zimmer** zur Verfügung:
+- LinkedIn: [linkedin.com/in/werner-zimmer-8106051a1](https://linkedin.com/in/werner-zimmer-8106051a1)
+- Facebook: [facebook.com/wernerzimmer62](https://facebook.com/wernerzimmer62)
+- Instagram: [instagram.com/wernerzimmer62](https://instagram.com/wernerzimmer62)
 
-**Wichtig:** Reichweiten- bzw. Follower-Zahlen aus automatisierten Suchzusammenfassungen sind nicht verlässlich. Bevor Budget oder Redaktionsplan final beschlossen werden, sollte der Verlag Zugriff auf die echten Account-Insights geben (Follower, Reichweite, Engagement-Rate der letzten 90 Tage), damit dieses Konzept in Abschnitt 15 (KPIs) mit echten Ist-Werten unterlegt werden kann. Da die Website keine Social-Links zeigt, ist außerdem zu klären, ob es bereits **Unternehmensseiten** (Facebook-Seite, LinkedIn-Unternehmensseite für den KopfHoch Verlag) gibt oder ob nur das Privatprofil der Autorin existiert – das ist eine strategische Weichenstellung (siehe 5.1 und 7.1) und sollte in jedem Fall künftig im Footer/Header der Website verlinkt werden.
+Ein automatisierter Abruf dieser Profile war nicht möglich (LinkedIn/Instagram blockieren nicht angemeldete Abrufe, Facebook liefert nur gekürzten Inhalt) – Follower-Zahlen, aktuelle Bio-Texte und bisherige Beiträge müssen daher manuell im jeweiligen Account eingesehen werden, bevor Redaktionsplan und KPI-Ziele (Abschnitt 15) mit echten Ist-Werten unterlegt werden.
+
+**Wichtige Weichenstellung:** Es handelt sich um **persönliche Profile von Werner Zimmer**, nicht um dedizierte Unternehmensseiten des Verlags. Zwei Optionen:
+1. **Personal-Profil-Strategie:** Werner Zimmer postet als Verlagseigentümer/-macher über seine bestehenden Profile (funktioniert v. a. auf LinkedIn oft mit höherer organischer Reichweite als Unternehmensseiten, wirkt persönlich/glaubwürdig).
+2. **Dedizierte Verlagsseiten:** Zusätzlich eine Facebook-Seite, ein Instagram-Business-Profil und eine LinkedIn-Unternehmensseite „KopfHoch Verlag" aufbauen, auf die von Werner Zimmers Profilen verlinkt wird – sauberere Trennung zwischen Person und Marke, notwendig z. B. für Facebook-/Instagram-Ads (dafür wird ohnehin eine Unternehmensseite benötigt, siehe Abschnitt 12).
+
+Dieses Konzept empfiehlt **Option 2 mittelfristig** (siehe 90-Tage-Fahrplan, Abschnitt 16), mit Werner Zimmers bestehenden Profilen als Startpunkt für Reichweite/Vertrauen in Monat 1. Sobald Kanäle final feststehen, sollten sie im Footer/Header der Website verlinkt werden. Zur Erinnerung: Marion Benders eigene, davon unabhängige Social-Profile gehören zu ihrem separaten Redner:innen-Marketing (siehe Abgrenzung oben) und sind hier nicht Gegenstand.
 
 ---
 
@@ -140,7 +146,7 @@ Aktuell werden Podcast (jeden Freitag neue Folge) und Blog (1–2×/Monat) **nic
 ## 5. Plattformstrategie Facebook
 
 ### 5.1 Rolle im Mix
-Facebook erreicht die reifste, kaufbereiteste Zielgruppe (35–65 Jahre), ist stark für **Community-Aufbau** (Gruppen für Angehörige/Peer-Austausch passt exakt zur Peer-Rolle der Autorin) und für **Shop-Traffic über Ads**. Empfehlung: eine **Facebook-Unternehmensseite „KopfHoch Verlag"** (falls noch nicht vorhanden), verlinkt mit dem Autorinnen-Profil, plus mittelfristig eine **geschlossene Community-Gruppe** „Aufstehen beginnt im Kopf – Austausch" für Leser:innen und Angehörige.
+Facebook erreicht die reifste, kaufbereiteste Zielgruppe (35–65 Jahre), ist stark für **Community-Aufbau** (Gruppen für Angehörige/Peer-Austausch passt exakt zur Peer-Rolle der Autorin) und für **Shop-Traffic über Ads**. Startpunkt ist das bestehende persönliche Profil von Werner Zimmer ([facebook.com/wernerzimmer62](https://facebook.com/wernerzimmer62)); für Ads und eine klare Markentrennung wird jedoch zusätzlich eine **Facebook-Unternehmensseite „KopfHoch Verlag"** benötigt (Meta erlaubt Werbeanzeigen grundsätzlich nur über Seiten, nicht über Privatprofile) – siehe Entscheidung in Abschnitt 1.5. Mittelfristig sinnvoll: eine **geschlossene Community-Gruppe** „Aufstehen beginnt im Kopf – Austausch" für Leser:innen und Angehörige.
 
 ### 5.2 Content-Mix (3–4 Posts/Woche)
 - 1× Zitatkarte aus der „… beginnt im Kopf"-Reihe
@@ -151,7 +157,7 @@ Facebook erreicht die reifste, kaufbereiteste Zielgruppe (35–65 Jahre), ist st
 ### 5.3 Formate
 - Karussell-Posts mit Zitatserien
 - Native Video (kein reiner YouTube-Link – Facebook bevorzugt hochgeladenes Video)
-- Facebook-Events für Lesungen/Vorträge
+- Facebook-Events für Buchlesungen
 - Verlinkung des Buchberater-Chatbots als „Finde heraus, ob das Buch zu dir passt" – Soft-CTA statt Kaufbutton
 
 ### 5.4 Ads (siehe auch Abschnitt 12)
@@ -164,7 +170,7 @@ Facebook erreicht die reifste, kaufbereiteste Zielgruppe (35–65 Jahre), ist st
 ## 6. Plattformstrategie Instagram
 
 ### 6.1 Rolle im Mix
-Instagram ist der **Reichweiten- und Emotionsmotor** – visuelles Storytelling, Reels für neue Reichweite, Stories für tägliche Nähe. Bestehendes Profil `@marion_bender_official` sollte als Basis genutzt und im Look an den Verlag/Buch-Look angepasst werden (Highlight „Das Buch", „Leseprobe", „Vorträge", „Peer-Beratung").
+Instagram ist der **Reichweiten- und Emotionsmotor** – visuelles Storytelling, Reels für neue Reichweite, Stories für tägliche Nähe. Startpunkt ist das bestehende Profil von Werner Zimmer ([instagram.com/wernerzimmer62](https://instagram.com/wernerzimmer62)); da es sich um ein privates Profil handelt, sollte vor dem Start geprüft werden, ob es zu einem **Business-Profil** umgestellt und im Look konsequent auf den Verlag/das Buch ausgerichtet wird (Bio, Profilbild, Highlights „Das Buch", „Leseprobe", „Peer-Beratung", „Podcast"), oder ob stattdessen ein neues, dediziertes Verlagsprofil aufgebaut wird – siehe Entscheidung in Abschnitt 1.5.
 
 ### 6.2 Content-Mix (5–6 Beiträge/Woche über Feed + Stories)
 - **Reels (2–3×/Woche):** kurze, ruhige Talking-Head-Clips zu einem „… beginnt im Kopf"-Thema, 15–30 Sekunden, Untertitel eingebrannt (Barrierefreiheit + Sound-off-Nutzung)
@@ -184,7 +190,7 @@ Mischung aus Nischenbegriffen (z. B. Querschnittlähmung, Peer-Beratung, Rehabil
 ## 7. Plattformstrategie LinkedIn
 
 ### 7.1 Rolle im Mix
-Wichtige Abgrenzung: Marion Bender betreibt für ihre Tätigkeit als Rednerin bereits ein **eigenes** Marketingkonzept – Vortragsbuchungen und Redner:innen-Positionierung sind **nicht** Gegenstand dieses Verlagskonzepts. Für den KopfHoch Verlag ist LinkedIn stattdessen ein **B2B-Vertriebskanal für den Buchverkauf**: HR-Abteilungen, Gesundheitsmanagement und Einrichtungen, die das Buch gezielt als Impuls einsetzen möchten (Persona C, Abschnitt 3). Empfehlung: eine eigene **LinkedIn-Unternehmensseite „KopfHoch Verlag"** aufbauen, getrennt von Marion Benders persönlichem (Redner:innen-)Profil, damit beide Marketingkonzepte sauber getrennt bleiben und sich nicht überschneiden.
+Wichtige Abgrenzung: Marion Bender betreibt für ihre Tätigkeit als Rednerin bereits ein **eigenes** Marketingkonzept – Vortragsbuchungen und Redner:innen-Positionierung sind **nicht** Gegenstand dieses Verlagskonzepts. Für den KopfHoch Verlag ist LinkedIn stattdessen ein **B2B-Vertriebskanal für den Buchverkauf**: HR-Abteilungen, Gesundheitsmanagement und Einrichtungen, die das Buch gezielt als Impuls einsetzen möchten (Persona C, Abschnitt 3). Startpunkt ist das bestehende persönliche Profil von Werner Zimmer ([linkedin.com/in/werner-zimmer-8106051a1](https://linkedin.com/in/werner-zimmer-8106051a1)) – auf LinkedIn ist das strategisch sinnvoll, da persönliche Profile im B2B-Kontext meist höhere organische Reichweite erzielen als Unternehmensseiten. Ergänzend empfohlen: eine **LinkedIn-Unternehmensseite „KopfHoch Verlag"** aufbauen, auf die Werner Zimmer in seinen Beiträgen verlinkt – getrennt von Marion Benders persönlichem (Redner:innen-)Profil, damit beide Marketingkonzepte sauber getrennt bleiben und sich nicht überschneiden.
 
 ### 7.2 Zielgruppen auf LinkedIn
 - HR-Verantwortliche und Gesundheitsmanagement, die das Buch für Mitarbeitende beschaffen (Einzelexemplare oder Mengenbestellung als Gesundheitstag-/Willkommens-Give-away)
@@ -308,7 +314,7 @@ Monatliches Reporting: Follower-Wachstum, Reichweite, Klicks zur Website, Lesepr
 
 **Monat 1 – Fundament**
 - Redaktionsplan starten, Design-Vorlagen (Zitatkarten, Reel-Intro) erstellen
-- Bestehende Profile aufräumen/„Verlag"-Signatur ergänzen, Bio/Links vereinheitlichen
+- Werner Zimmers bestehende Profile (LinkedIn, Facebook, Instagram) aufräumen: Bio auf Verlag/Buch ausrichten, Links zum Shop ergänzen; Entscheidung Personal-Profil vs. dedizierte Verlagsseiten treffen (Abschnitt 1.5)
 - Erste Content-Säule „… beginnt im Kopf" produzieren (10–15 Assets als Vorrat)
 
 **Monat 2 – Wachstum**
@@ -325,8 +331,8 @@ Monatliches Reporting: Follower-Wachstum, Reichweite, Klicks zur Website, Lesepr
 
 ## 17. Offene Punkte / nächste Schritte
 
-1. **Social-Media-Ist-Zustand verifizieren:** Zugriff auf echte Insights (Follower, Reichweite, Engagement) für Instagram, Facebook, LinkedIn einholen, um Abschnitt 15 mit echten Zahlen zu unterlegen.
-2. **Entscheidung Verlags- vs. Personenmarke:** Klären, ob eigene Facebook-/LinkedIn-Unternehmensseiten „KopfHoch Verlag" zusätzlich zum Autorinnenprofil aufgebaut werden sollen – und diese anschließend auf der Website (Header/Footer) verlinken, da aktuell keine Social-Links auf kopfhoch-verlag.de vorhanden sind.
+1. **Social-Media-Ist-Zustand verifizieren:** Zugriff auf echte Insights (Follower, Reichweite, Engagement) für Werner Zimmers bestehende LinkedIn-, Facebook- und Instagram-Profile einholen, um Abschnitt 15 mit echten Zahlen zu unterlegen (automatisierter Abruf war nicht möglich, siehe 1.5).
+2. **Entscheidung Personal-Profil vs. dedizierte Verlagsseiten:** Klären, ob Werner Zimmers bestehende Profile weitergeführt oder zusätzlich eigene Facebook-/Instagram-/LinkedIn-Unternehmensseiten „KopfHoch Verlag" aufgebaut werden (siehe 1.5) – und die final genutzten Kanäle anschließend auf der Website (Header/Footer) verlinken, da aktuell keine Social-Links auf kopfhoch-verlag.de vorhanden sind.
 3. **Freigabeprozess:** Wer produziert/genehmigt Inhalte (Marion Bender, Werner Zimmer, externe Agentur)? Sollte vor Start des 90-Tage-Fahrplans festgelegt werden.
 4. **Klärung „Menschen kaufen keine Tricks – 30 ehrliche Conversion-Hebel":** Wer ist Autor:in, welche Zielgruppe wird angesprochen? Der Titel passt inhaltlich nicht zum Mutmacher-Programm – bevor er auf Social Media beworben wird, sollte geklärt werden, ob er über einen eigenen (ggf. B2B-/LinkedIn-)Kanal statt über die Mutmacher-Kanäle vermarktet werden sollte.
 5. **Podcast-/Blog-Repurposing-Workflow festlegen:** Wer schneidet Audiogramme/Reels aus den Freitagsfolgen, wer erstellt die Carousel-Zusammenfassungen der Blogartikel (Abschnitt 4.2)? Ohne festen Verantwortlichen bleibt dieser größte kurzfristige Hebel ungenutzt.
