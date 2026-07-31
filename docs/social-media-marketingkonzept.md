@@ -139,9 +139,9 @@ Personalabteilungen, Gesundheitsmanagement, Reha-Einrichtungen, Selbsthilfegrupp
 Sechs wiederkehrende Säulen, jede mit klarem Verhältnis zwischen Storytelling und Verkauf (Richtwert: 80 % Wert/Beziehung, 20 % Verkauf/CTA):
 
 1. **„… beginnt im Kopf"-Reihe** – Kurzimpulse zu einem Gliederungsthema (z. B. Zuversicht, Heimat, Hoffnung) als Zitatkarte oder 30-Sekunden-Reel. Keine Kapitelnummern nennen, nur Themen.
-2. **Ehrliche Lebensgeschichte** – Auszüge/Nacherzählungen einzelner Stationen (Unfall, Reha, Rückkehr ins Berufsleben, Pferde/Kutschfahren, Peer-Arbeit) – immer als „das ist ein Ausschnitt, nicht das ganze Buch" gekennzeichnet.
+2. **Ehrliche Lebensgeschichte** – Auszüge/Nacherzählungen einzelner Stationen (Unfall, Reha, Rückkehr ins Berufsleben, Pferde/Kutschfahren) – immer als „das ist ein Ausschnitt, nicht das ganze Buch" gekennzeichnet.
 3. **Fragen statt Antworten** – Community-Posts, die zum Dialog einladen („Was hat dir geholfen, als du dich selbst aufgeben wolltest?"), ohne Druck, ohne Therapieanspruch.
-4. **Hinter den Kulissen** – Autorin im Alltag, Tiere, Peer-Beratung – macht Marion Bender als Person greifbar und schafft Vertrauen in den Verlag und das Buch (nicht zu verwechseln mit ihrem separaten Redner:innen-Marketing).
+4. **Hinter den Kulissen** – Autorin im Alltag, Tiere – macht Marion Bender als Person greifbar und schafft Vertrauen in den Verlag und das Buch (nicht zu verwechseln mit ihrem separaten Redner:innen-Marketing).
 5. **Shop & Leseprobe** – klar gekennzeichnete Verkaufs-/Aktionsposts: Leseprobe anfordern, Buch bestellen, Bundle/Cross-Selling zwischen den sieben Produkten, Rezensionen zeigen. Bewusst dosiert, nie „aggressiv verkaufend" (siehe Abschnitt 2).
 6. **Podcast & Blog Repurposing** – wöchentliche Podcast-Folge und monatliche Blogartikel als Rohmaterial für alle drei Kanäle (Details siehe 4.2).
 
@@ -169,7 +169,7 @@ Aktuell werden Podcast (jeden Freitag neue Folge) und Blog (1–2×/Monat) **nic
 ## 5. Plattformstrategie Facebook
 
 ### 5.1 Rolle im Mix
-Facebook erreicht die reifste, kaufbereiteste Zielgruppe (35–65 Jahre), ist stark für **Community-Aufbau** (Gruppen für Angehörige/Peer-Austausch passt exakt zur Peer-Rolle der Autorin) und für **Shop-Traffic über Ads**. Basis ist das bestehende, bereits markengerecht eingerichtete Profil von Werner Zimmer ([facebook.com/wernerzimmer62](https://facebook.com/wernerzimmer62), 1.505 Follower, Bio schon auf Verlag/Buch/Podcast/Shop ausgerichtet, siehe Abschnitt 1.5). Für Ads wird ggf. zusätzlich eine **Facebook-Unternehmensseite „KopfHoch Verlag"** benötigt (Meta erlaubt klassische Werbeanzeigen meist nur über Seiten) – vor dem Aufbau prüfen, ob das bestehende Profil bereits im Meta-Werbeanzeigenmanager als Absender nutzbar ist. Mittelfristig sinnvoll: eine **geschlossene Community-Gruppe** „Aufstehen beginnt im Kopf – Austausch" für Leser:innen und Angehörige.
+Facebook erreicht die reifste, kaufbereiteste Zielgruppe (35–65 Jahre), ist stark für **Community-Aufbau** (Gruppen für Leser:innen und Angehörige zum Austausch über die Buchthemen) und für **Shop-Traffic über Ads**. Basis ist das bestehende, bereits markengerecht eingerichtete Profil von Werner Zimmer ([facebook.com/wernerzimmer62](https://facebook.com/wernerzimmer62), 1.505 Follower, Bio schon auf Verlag/Buch/Podcast/Shop ausgerichtet, siehe Abschnitt 1.5). Für Ads wird ggf. zusätzlich eine **Facebook-Unternehmensseite „KopfHoch Verlag"** benötigt (Meta erlaubt klassische Werbeanzeigen meist nur über Seiten) – vor dem Aufbau prüfen, ob das bestehende Profil bereits im Meta-Werbeanzeigenmanager als Absender nutzbar ist. Mittelfristig sinnvoll: eine **geschlossene Community-Gruppe** „Aufstehen beginnt im Kopf – Austausch" für Leser:innen und Angehörige.
 
 ### 5.2 Content-Mix (3–4 Posts/Woche)
 - 1× Zitatkarte aus der „… beginnt im Kopf"-Reihe
@@ -193,7 +193,7 @@ Facebook erreicht die reifste, kaufbereiteste Zielgruppe (35–65 Jahre), ist st
 ## 6. Plattformstrategie Instagram
 
 ### 6.1 Rolle im Mix
-Instagram ist der **Reichweiten- und Emotionsmotor** – visuelles Storytelling, Reels für neue Reichweite, Stories für tägliche Nähe. Basis ist das bestehende Profil von Werner Zimmer ([instagram.com/wernerzimmer62](https://instagram.com/wernerzimmer62), Digital-Creator-Profil, 2.736 Follower) – Bio, Link-Hub und Highlights („KopfHoch Verlag", „Buch" mit echtem Cover, „Tagesimpulse") sind bereits markengerecht eingerichtet, ebenso laufen bereits Reels zu passenden Themen (siehe Abschnitt 1.5). Die Aufgabe ist hier also **Ausbau statt Neuaufbau**: bestehende Highlights um „Leseprobe" und „Peer-Beratung" ergänzen, das bereits gut performende Reel-Format (Top-Reel: 12,2 Tsd. Aufrufe) analysieren und als Vorlage für einen festen Redaktionsrhythmus nutzen (Abschnitt 8).
+Instagram ist der **Reichweiten- und Emotionsmotor** – visuelles Storytelling, Reels für neue Reichweite, Stories für tägliche Nähe. Basis ist das bestehende Profil von Werner Zimmer ([instagram.com/wernerzimmer62](https://instagram.com/wernerzimmer62), Digital-Creator-Profil, 2.736 Follower) – Bio, Link-Hub und Highlights („KopfHoch Verlag", „Buch" mit echtem Cover, „Tagesimpulse") sind bereits markengerecht eingerichtet, ebenso laufen bereits Reels zu passenden Themen (siehe Abschnitt 1.5). Die Aufgabe ist hier also **Ausbau statt Neuaufbau**: bestehende Highlights um „Leseprobe" ergänzen, das bereits gut performende Reel-Format (Top-Reel: 12,2 Tsd. Aufrufe) analysieren und als Vorlage für einen festen Redaktionsrhythmus nutzen (Abschnitt 8).
 
 ### 6.2 Content-Mix (5–6 Beiträge/Woche über Feed + Stories)
 - **Reels (2–3×/Woche):** kurze, ruhige Talking-Head-Clips zu einem „… beginnt im Kopf"-Thema, 15–30 Sekunden, Untertitel eingebrannt (Barrierefreiheit + Sound-off-Nutzung)
@@ -202,10 +202,10 @@ Instagram ist der **Reichweiten- und Emotionsmotor** – visuelles Storytelling,
 - **Carousel (1×/Woche):** „5 Dinge, die mir in der Reha geholfen haben" – edukativer Mehrwert ohne Ratgeber-Ton
 
 ### 6.3 Hashtag- & Discovery-Strategie
-Mischung aus Nischenbegriffen (z. B. Querschnittlähmung, Peer-Beratung, Rehabilitation) und Themen-Hashtags (Mutmacher, Veränderung, autobiografisch) – bewusst **keine** reißerischen Motivations-Hashtags, die im Widerspruch zur Markenstimme stünden.
+Mischung aus Nischenbegriffen (z. B. Querschnittlähmung, Rehabilitation) und Themen-Hashtags (Mutmacher, Veränderung, autobiografisch) – bewusst **keine** reißerischen Motivations-Hashtags, die im Widerspruch zur Markenstimme stünden.
 
 ### 6.4 Kooperationen
-- Reha-Kliniken, Selbsthilfegruppen, Behindertensport-Verbände, andere Peer-Berater:innen
+- Reha-Kliniken, Selbsthilfegruppen, Behindertensport-Verbände
 - Mikro-Influencer:innen aus dem Bereich Inklusion/mentale Stärke (Fokus auf Glaubwürdigkeit statt Reichweite)
 
 ---
@@ -256,7 +256,7 @@ Monatlich ergänzt um: 1 größere Aktion (z. B. Themenwoche „Hilfe annehmen")
 - Podcast-Audiogramm / Blog-Zitatgrafik (LinkedIn/Instagram)
 - Leser-Feedback-Repost (mit Einwilligung)
 - Leseprobe-CTA-Post
-- Behind-the-Scenes (Alltag, Tiere, Peer-Beratung)
+- Behind-the-Scenes (Alltag, Tiere)
 - Q&A-Live-Format
 - Saisonale Grußkarte/Aktion
 
@@ -338,7 +338,7 @@ Monatliches Reporting: Follower-Wachstum gegenüber obiger Baseline, Reichweite,
 **Monat 1 – Fundament**
 - **Priorität:** negativen Instagram-Netto-Follower-Trend (-33/30 Tage, siehe 1.6) stoppen – Content konsequent auf die Content-Säulen ausrichten statt private Alltagsfotos zu mischen, „Folgen"-CTA in Reels einbauen
 - Redaktionsplan starten, Design-Vorlagen (Zitatkarten, Reel-Intro) erstellen – im bereits etablierten Look der bestehenden Profile
-- Bestehendes Top-Reel (12,2 Tsd. Aufrufe) und das gut performende Bühnenfoto mit Marion Bender (328 Aufrufe) auswerten, um Hook/Format für neue Beiträge abzuleiten; Instagram-Highlights um „Leseprobe" und „Peer-Beratung" ergänzen; Link-Hub `werner62.bio.link` auf Aktualität prüfen
+- Bestehendes Top-Reel (12,2 Tsd. Aufrufe) und das gut performende Bühnenfoto mit Marion Bender (328 Aufrufe) auswerten, um Hook/Format für neue Beiträge abzuleiten; Instagram-Highlights um „Leseprobe" ergänzen; Link-Hub `werner62.bio.link` auf Aktualität prüfen
 - Prüfen, ob hinter der „KopfHoch-Verlag"-Verknüpfung auf LinkedIn bereits eine Unternehmensseite steht; Entscheidung Personal-Profil vs. zusätzliche dedizierte Verlagsseiten treffen (Abschnitt 1.5)
 - Erste Content-Säule „… beginnt im Kopf" produzieren (10–15 Assets als Vorrat)
 
