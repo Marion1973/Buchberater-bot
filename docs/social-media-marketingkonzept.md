@@ -61,19 +61,23 @@ Der Shop verkauft **sieben Produkte** – deutlich mehr als nur das eine Buch, d
 - **Lead-Magnet:** kostenloses PDF des ersten Kapitels per E-Mail-Anmeldung (unverbindlich) – deckt sich mit der in `book-knowledge.js` beschriebenen Leseprobe.
 - **Geplant laut Website:** Online-Kurse („Kurse in Planung") – mittelfristig relevant für LinkedIn-B2B-Content und Instagram-Launch-Kampagnen.
 
-### 1.5 Bestehende Social-Media-Präsenz
-Die Website selbst weist bislang **keine Social-Media-Links** aus (weder Header noch Footer). Als Kanäle für den KopfHoch Verlag stehen die **persönlichen Profile des Verlagseigentümers Werner Zimmer** zur Verfügung:
-- LinkedIn: [linkedin.com/in/werner-zimmer-8106051a1](https://linkedin.com/in/werner-zimmer-8106051a1)
-- Facebook: [facebook.com/wernerzimmer62](https://facebook.com/wernerzimmer62)
-- Instagram: [instagram.com/wernerzimmer62](https://instagram.com/wernerzimmer62)
+### 1.5 Bestehende Social-Media-Präsenz (Ist-Stand, per Screenshot verifiziert am 31.07.2026)
+Die Website selbst weist bislang **keine Social-Media-Links** aus (weder Header noch Footer). Anders als zunächst angenommen sind die drei Profile von Werner Zimmer **keine unbearbeiteten Privatprofile**, sondern bereits durchgängig auf den Verlag ausgerichtete, aktiv gepflegte Kanäle mit einheitlicher Bio, echtem Buch-/Podcast-Content und einem eigenen Link-Hub:
 
-Ein automatisierter Abruf dieser Profile war nicht möglich (LinkedIn/Instagram blockieren nicht angemeldete Abrufe, Facebook liefert nur gekürzten Inhalt) – Follower-Zahlen, aktuelle Bio-Texte und bisherige Beiträge müssen daher manuell im jeweiligen Account eingesehen werden, bevor Redaktionsplan und KPI-Ziele (Abschnitt 15) mit echten Ist-Werten unterlegt werden.
+| Kanal | Profil | Follower/Kennzahlen | Ist-Zustand |
+|---|---|---|---|
+| LinkedIn | [linkedin.com/in/werner-zimmer-8106051a1](https://linkedin.com/in/werner-zimmer-8106051a1) – „Werner Zimmer" | 793 Follower:innen, 500+ Kontakte | Headline bereits verlagsbezogen: „Inhaber & Verleger KopfHoch Verlag 📖 Aufstehen beginnt im Kopf – Marion Bender ✨ 365 Tage Mut – das E-Book für jeden Tag. Bücher, die aufrütteln. Worte, die bleiben." Ort: Schöffengrund, Hessen. Im Profil erscheint zudem eine Station/Verknüpfung „KopfHoch-Verlag" – bitte prüfen, ob dazu bereits eine eigene LinkedIn-Unternehmensseite existiert (falls ja, in Abschnitt 7 als zusätzlichen Kanal einplanen). |
+| Instagram | [instagram.com/wernerzimmer62](https://instagram.com/wernerzimmer62) – „Werner Zimmer", Digital Creator | 2.736 Follower, 1.988 Beiträge, 1.770 gefolgt | Bio bereits auf Marke: „KopfHoch macht Mut alltagstauglich – ehrlich, authentisch, nahbar in 📕 Büchern & 🎙️ Podcasts & im Shop", Link-Hub `werner62.bio.link`. Highlights bereits vorhanden: „KopfHoch Verlag" (Logo), „Buch" (echtes Cover), „Tagesimpulse". Reels laufen bereits aktiv (Themen wie „Voller Kalender, erfülltes Leben?", „Multitasking oder mehrfaches Halbmachen?", Podcast-Teaser mit Marion Bender), Top-Reel bereits 12,2 Tsd. Aufrufe, die übrigen meist 20–600 Aufrufe. |
+| Facebook | [facebook.com/wernerzimmer62](https://facebook.com/wernerzimmer62) – „Werner Zimmer" | 1.505 Follower, 608 gefolgt | Gleiche Bio wie Instagram, im Profil als „Unternehmer/in" kategorisiert, gleicher Link-Hub `werner62.bio.link`. |
 
-**Wichtige Weichenstellung:** Es handelt sich um **persönliche Profile von Werner Zimmer**, nicht um dedizierte Unternehmensseiten des Verlags. Zwei Optionen:
-1. **Personal-Profil-Strategie:** Werner Zimmer postet als Verlagseigentümer/-macher über seine bestehenden Profile (funktioniert v. a. auf LinkedIn oft mit höherer organischer Reichweite als Unternehmensseiten, wirkt persönlich/glaubwürdig).
-2. **Dedizierte Verlagsseiten:** Zusätzlich eine Facebook-Seite, ein Instagram-Business-Profil und eine LinkedIn-Unternehmensseite „KopfHoch Verlag" aufbauen, auf die von Werner Zimmers Profilen verlinkt wird – sauberere Trennung zwischen Person und Marke, notwendig z. B. für Facebook-/Instagram-Ads (dafür wird ohnehin eine Unternehmensseite benötigt, siehe Abschnitt 12).
+**Konsequenz für dieses Konzept:** Die zuvor empfohlene „Repositionierung auf Verlag/Buch" ist bereits erfolgt. Die eigentliche Aufgabe ist jetzt **nicht** „Kanäle neu aufbauen", sondern:
+- **Posting-Frequenz und Konsistenz erhöhen** (aktuell wirken die Reels eher unregelmäßig/experimentell als nach festem Redaktionsplan, siehe Abschnitt 8).
+- **Erfolgreiche Formate analysieren und wiederholen** – insbesondere das Reel mit 12,2 Tsd. Aufrufen: Thema, Hook und Format identifizieren und als Vorlage für weitere Reels nutzen.
+- **Cross-Promotion mit Podcast/Blog systematisieren** (Abschnitt 4.2), da der Podcast-Teaser mit Marion Bender bereits ein Format ist, das gut zur Marke passt, aber offenbar noch nicht regelmäßig erscheint.
+- **Link-Hub `werner62.bio.link` prüfen und optimieren**, damit er konsistent zu Shop, Leseprobe und Podcast führt (zentraler Umschlagpunkt für alle drei Kanäle, siehe Funnel in Abschnitt 10).
+- Auf LinkedIn ist mit 793 Follower:innen noch am meisten Luft nach oben – konsistent mit der in Abschnitt 7 beschriebenen B2B-Ausrichtung, die eher langsameres, gezieltes Wachstum erwartet als Instagram.
 
-Dieses Konzept empfiehlt **Option 2 mittelfristig** (siehe 90-Tage-Fahrplan, Abschnitt 16), mit Werner Zimmers bestehenden Profilen als Startpunkt für Reichweite/Vertrauen in Monat 1. Sobald Kanäle final feststehen, sollten sie im Footer/Header der Website verlinkt werden. Zur Erinnerung: Marion Benders eigene, davon unabhängige Social-Profile gehören zu ihrem separaten Redner:innen-Marketing (siehe Abgrenzung oben) und sind hier nicht Gegenstand.
+Diese Kanäle sollten außerdem im Footer/Header der Website verlinkt werden, sobald final entschieden ist, ob dauerhaft über Werner Zimmers Profile gepostet wird oder zusätzlich dedizierte Unternehmensseiten „KopfHoch Verlag" entstehen (z. B. für Facebook-/Instagram-Ads, die eine Seite statt eines Profils voraussetzen können, siehe Abschnitt 12). Zur Erinnerung: Marion Benders eigene, davon unabhängige Social-Profile gehören zu ihrem separaten Redner:innen-Marketing (siehe Abgrenzung oben) und sind hier nicht Gegenstand.
 
 ---
 
@@ -146,7 +150,7 @@ Aktuell werden Podcast (jeden Freitag neue Folge) und Blog (1–2×/Monat) **nic
 ## 5. Plattformstrategie Facebook
 
 ### 5.1 Rolle im Mix
-Facebook erreicht die reifste, kaufbereiteste Zielgruppe (35–65 Jahre), ist stark für **Community-Aufbau** (Gruppen für Angehörige/Peer-Austausch passt exakt zur Peer-Rolle der Autorin) und für **Shop-Traffic über Ads**. Startpunkt ist das bestehende persönliche Profil von Werner Zimmer ([facebook.com/wernerzimmer62](https://facebook.com/wernerzimmer62)); für Ads und eine klare Markentrennung wird jedoch zusätzlich eine **Facebook-Unternehmensseite „KopfHoch Verlag"** benötigt (Meta erlaubt Werbeanzeigen grundsätzlich nur über Seiten, nicht über Privatprofile) – siehe Entscheidung in Abschnitt 1.5. Mittelfristig sinnvoll: eine **geschlossene Community-Gruppe** „Aufstehen beginnt im Kopf – Austausch" für Leser:innen und Angehörige.
+Facebook erreicht die reifste, kaufbereiteste Zielgruppe (35–65 Jahre), ist stark für **Community-Aufbau** (Gruppen für Angehörige/Peer-Austausch passt exakt zur Peer-Rolle der Autorin) und für **Shop-Traffic über Ads**. Basis ist das bestehende, bereits markengerecht eingerichtete Profil von Werner Zimmer ([facebook.com/wernerzimmer62](https://facebook.com/wernerzimmer62), 1.505 Follower, Bio schon auf Verlag/Buch/Podcast/Shop ausgerichtet, siehe Abschnitt 1.5). Für Ads wird ggf. zusätzlich eine **Facebook-Unternehmensseite „KopfHoch Verlag"** benötigt (Meta erlaubt klassische Werbeanzeigen meist nur über Seiten) – vor dem Aufbau prüfen, ob das bestehende Profil bereits im Meta-Werbeanzeigenmanager als Absender nutzbar ist. Mittelfristig sinnvoll: eine **geschlossene Community-Gruppe** „Aufstehen beginnt im Kopf – Austausch" für Leser:innen und Angehörige.
 
 ### 5.2 Content-Mix (3–4 Posts/Woche)
 - 1× Zitatkarte aus der „… beginnt im Kopf"-Reihe
@@ -170,7 +174,7 @@ Facebook erreicht die reifste, kaufbereiteste Zielgruppe (35–65 Jahre), ist st
 ## 6. Plattformstrategie Instagram
 
 ### 6.1 Rolle im Mix
-Instagram ist der **Reichweiten- und Emotionsmotor** – visuelles Storytelling, Reels für neue Reichweite, Stories für tägliche Nähe. Startpunkt ist das bestehende Profil von Werner Zimmer ([instagram.com/wernerzimmer62](https://instagram.com/wernerzimmer62)); da es sich um ein privates Profil handelt, sollte vor dem Start geprüft werden, ob es zu einem **Business-Profil** umgestellt und im Look konsequent auf den Verlag/das Buch ausgerichtet wird (Bio, Profilbild, Highlights „Das Buch", „Leseprobe", „Peer-Beratung", „Podcast"), oder ob stattdessen ein neues, dediziertes Verlagsprofil aufgebaut wird – siehe Entscheidung in Abschnitt 1.5.
+Instagram ist der **Reichweiten- und Emotionsmotor** – visuelles Storytelling, Reels für neue Reichweite, Stories für tägliche Nähe. Basis ist das bestehende Profil von Werner Zimmer ([instagram.com/wernerzimmer62](https://instagram.com/wernerzimmer62), Digital-Creator-Profil, 2.736 Follower) – Bio, Link-Hub und Highlights („KopfHoch Verlag", „Buch" mit echtem Cover, „Tagesimpulse") sind bereits markengerecht eingerichtet, ebenso laufen bereits Reels zu passenden Themen (siehe Abschnitt 1.5). Die Aufgabe ist hier also **Ausbau statt Neuaufbau**: bestehende Highlights um „Leseprobe" und „Peer-Beratung" ergänzen, das bereits gut performende Reel-Format (Top-Reel: 12,2 Tsd. Aufrufe) analysieren und als Vorlage für einen festen Redaktionsrhythmus nutzen (Abschnitt 8).
 
 ### 6.2 Content-Mix (5–6 Beiträge/Woche über Feed + Stories)
 - **Reels (2–3×/Woche):** kurze, ruhige Talking-Head-Clips zu einem „… beginnt im Kopf"-Thema, 15–30 Sekunden, Untertitel eingebrannt (Barrierefreiheit + Sound-off-Nutzung)
@@ -190,7 +194,7 @@ Mischung aus Nischenbegriffen (z. B. Querschnittlähmung, Peer-Beratung, Rehabil
 ## 7. Plattformstrategie LinkedIn
 
 ### 7.1 Rolle im Mix
-Wichtige Abgrenzung: Marion Bender betreibt für ihre Tätigkeit als Rednerin bereits ein **eigenes** Marketingkonzept – Vortragsbuchungen und Redner:innen-Positionierung sind **nicht** Gegenstand dieses Verlagskonzepts. Für den KopfHoch Verlag ist LinkedIn stattdessen ein **B2B-Vertriebskanal für den Buchverkauf**: HR-Abteilungen, Gesundheitsmanagement und Einrichtungen, die das Buch gezielt als Impuls einsetzen möchten (Persona C, Abschnitt 3). Startpunkt ist das bestehende persönliche Profil von Werner Zimmer ([linkedin.com/in/werner-zimmer-8106051a1](https://linkedin.com/in/werner-zimmer-8106051a1)) – auf LinkedIn ist das strategisch sinnvoll, da persönliche Profile im B2B-Kontext meist höhere organische Reichweite erzielen als Unternehmensseiten. Ergänzend empfohlen: eine **LinkedIn-Unternehmensseite „KopfHoch Verlag"** aufbauen, auf die Werner Zimmer in seinen Beiträgen verlinkt – getrennt von Marion Benders persönlichem (Redner:innen-)Profil, damit beide Marketingkonzepte sauber getrennt bleiben und sich nicht überschneiden.
+Wichtige Abgrenzung: Marion Bender betreibt für ihre Tätigkeit als Rednerin bereits ein **eigenes** Marketingkonzept – Vortragsbuchungen und Redner:innen-Positionierung sind **nicht** Gegenstand dieses Verlagskonzepts. Für den KopfHoch Verlag ist LinkedIn stattdessen ein **B2B-Vertriebskanal für den Buchverkauf**: HR-Abteilungen, Gesundheitsmanagement und Einrichtungen, die das Buch gezielt als Impuls einsetzen möchten (Persona C, Abschnitt 3). Basis ist das bestehende Profil von Werner Zimmer ([linkedin.com/in/werner-zimmer-8106051a1](https://linkedin.com/in/werner-zimmer-8106051a1), 793 Follower:innen, 500+ Kontakte), dessen Headline bereits verlagsbezogen formuliert ist – auf LinkedIn ist das strategisch sinnvoll, da persönliche Profile im B2B-Kontext meist höhere organische Reichweite erzielen als Unternehmensseiten. Von den drei Kanälen ist dies der mit dem geringsten Follower-Stand, was zur B2B-Ausrichtung passt (langsameres, gezieltes Wachstum). Im Profil taucht bereits ein Verweis auf „KopfHoch-Verlag" auf – vor dem Aufbau einer neuen Seite unbedingt prüfen, ob dahinter schon eine LinkedIn-Unternehmensseite steht, die dann statt eines Neuaufbaus einfach reaktiviert werden kann (siehe Abschnitt 1.5 und 17).
 
 ### 7.2 Zielgruppen auf LinkedIn
 - HR-Verantwortliche und Gesundheitsmanagement, die das Buch für Mitarbeitende beschaffen (Einzelexemplare oder Mengenbestellung als Gesundheitstag-/Willkommens-Give-away)
@@ -300,21 +304,22 @@ Da das Buchthema Querschnittlähmung, Mobbing und existenzielle Krisen berührt,
 
 ## 15. KPIs & Erfolgsmessung
 
-| Plattform | Primäre KPI | Sekundäre KPI |
-|---|---|---|
-| Facebook | Klicks zur Leseprobe/Shop | Gruppenwachstum, Engagement-Rate |
-| Instagram | Reichweite/Profilbesuche über Reels | Story-Interaktionen, Leseprobe-Klicks |
-| LinkedIn | Klicks zum Shop / Kontaktaufnahmen von Persona C (HR/Unternehmen) | Post-Impressionen, Kommentare, Mengenbestellungen |
+| Plattform | Follower-Baseline (31.07.2026) | Primäre KPI | Sekundäre KPI |
+|---|---|---|---|
+| Facebook | 1.505 | Klicks zur Leseprobe/Shop | Gruppenwachstum, Engagement-Rate |
+| Instagram | 2.736 | Reichweite/Profilbesuche über Reels | Story-Interaktionen, Leseprobe-Klicks |
+| LinkedIn | 793 | Klicks zum Shop / Kontaktaufnahmen von Persona C (HR/Unternehmen) | Post-Impressionen, Kommentare, Mengenbestellungen |
 
-Monatliches Reporting: Follower-Wachstum, Reichweite, Klicks zur Website, Leseprobe-Anmeldungen (Klaviyo), Shop-Conversions (falls per Analytics zuordenbar). **Wichtig:** aktuelle Ist-Werte müssen zunächst aus den echten Account-Insights nachgetragen werden (siehe 1.3).
+Monatliches Reporting: Follower-Wachstum gegenüber obiger Baseline, Reichweite, Klicks zur Website, Leseprobe-Anmeldungen (Klaviyo), Shop-Conversions (falls per Analytics zuordenbar). **Noch offen:** genaue Engagement-Rate und Reichweiten-Trend der letzten 90 Tage sowie Insights zum bereits erfolgreichen 12,2-Tsd.-Reel liegen nur im jeweiligen Account selbst vor und sollten für ein realistisches Wachstumsziel ergänzt werden.
 
 ---
 
 ## 16. 90-Tage-Fahrplan
 
 **Monat 1 – Fundament**
-- Redaktionsplan starten, Design-Vorlagen (Zitatkarten, Reel-Intro) erstellen
-- Werner Zimmers bestehende Profile (LinkedIn, Facebook, Instagram) aufräumen: Bio auf Verlag/Buch ausrichten, Links zum Shop ergänzen; Entscheidung Personal-Profil vs. dedizierte Verlagsseiten treffen (Abschnitt 1.5)
+- Redaktionsplan starten, Design-Vorlagen (Zitatkarten, Reel-Intro) erstellen – im bereits etablierten Look der bestehenden Profile
+- Bestehendes Top-Reel (12,2 Tsd. Aufrufe) und Instagram-Highlights auswerten, um Hook/Format für neue Beiträge abzuleiten; Instagram-Highlights um „Leseprobe" und „Peer-Beratung" ergänzen; Link-Hub `werner62.bio.link` auf Aktualität prüfen
+- Prüfen, ob hinter der „KopfHoch-Verlag"-Verknüpfung auf LinkedIn bereits eine Unternehmensseite steht; Entscheidung Personal-Profil vs. zusätzliche dedizierte Verlagsseiten treffen (Abschnitt 1.5)
 - Erste Content-Säule „… beginnt im Kopf" produzieren (10–15 Assets als Vorrat)
 
 **Monat 2 – Wachstum**
@@ -331,9 +336,10 @@ Monatliches Reporting: Follower-Wachstum, Reichweite, Klicks zur Website, Lesepr
 
 ## 17. Offene Punkte / nächste Schritte
 
-1. **Social-Media-Ist-Zustand verifizieren:** Zugriff auf echte Insights (Follower, Reichweite, Engagement) für Werner Zimmers bestehende LinkedIn-, Facebook- und Instagram-Profile einholen, um Abschnitt 15 mit echten Zahlen zu unterlegen (automatisierter Abruf war nicht möglich, siehe 1.5).
-2. **Entscheidung Personal-Profil vs. dedizierte Verlagsseiten:** Klären, ob Werner Zimmers bestehende Profile weitergeführt oder zusätzlich eigene Facebook-/Instagram-/LinkedIn-Unternehmensseiten „KopfHoch Verlag" aufgebaut werden (siehe 1.5) – und die final genutzten Kanäle anschließend auf der Website (Header/Footer) verlinken, da aktuell keine Social-Links auf kopfhoch-verlag.de vorhanden sind.
-3. **Freigabeprozess:** Wer produziert/genehmigt Inhalte (Marion Bender, Werner Zimmer, externe Agentur)? Sollte vor Start des 90-Tage-Fahrplans festgelegt werden.
-4. **Klärung „Menschen kaufen keine Tricks – 30 ehrliche Conversion-Hebel":** Wer ist Autor:in, welche Zielgruppe wird angesprochen? Der Titel passt inhaltlich nicht zum Mutmacher-Programm – bevor er auf Social Media beworben wird, sollte geklärt werden, ob er über einen eigenen (ggf. B2B-/LinkedIn-)Kanal statt über die Mutmacher-Kanäle vermarktet werden sollte.
-5. **Podcast-/Blog-Repurposing-Workflow festlegen:** Wer schneidet Audiogramme/Reels aus den Freitagsfolgen, wer erstellt die Carousel-Zusammenfassungen der Blogartikel (Abschnitt 4.2)? Ohne festen Verantwortlichen bleibt dieser größte kurzfristige Hebel ungenutzt.
-6. **Kursangebot beobachten:** Sobald die auf der Website angekündigten Online-Kurse konkret werden, sollten sie in die LinkedIn-Strategie (Abschnitt 7) und den 90-Tage-Fahrplan (Abschnitt 16) aufgenommen werden.
+1. **Account-Insights nachreichen:** Follower-Zahlen sind jetzt bekannt (siehe 1.5/15); es fehlen noch Engagement-Rate, Reichweiten-Trend der letzten 90 Tage und die genauen Insights zum bereits erfolgreichen 12,2-Tsd.-Reel auf Instagram – nur im jeweiligen Account selbst einsehbar.
+2. **Existenz einer LinkedIn-Unternehmensseite „KopfHoch-Verlag" klären:** Auf Werner Zimmers LinkedIn-Profil erscheint bereits eine Verknüpfung zu „KopfHoch-Verlag" – prüfen, ob dahinter schon eine Unternehmensseite steht, bevor eine neue angelegt wird.
+3. **Entscheidung Personal-Profil vs. zusätzliche dedizierte Verlagsseiten:** Klären, ob Werner Zimmers bestehende, bereits markengerechte Profile weitergeführt oder zusätzlich eigene Facebook-/Instagram-/LinkedIn-Unternehmensseiten „KopfHoch Verlag" aufgebaut werden (siehe 1.5) – und die final genutzten Kanäle anschließend auf der Website (Header/Footer) verlinken, da aktuell keine Social-Links auf kopfhoch-verlag.de vorhanden sind.
+4. **Freigabeprozess:** Wer produziert/genehmigt Inhalte (Marion Bender, Werner Zimmer, externe Agentur)? Sollte vor Start des 90-Tage-Fahrplans festgelegt werden.
+5. **Klärung „Menschen kaufen keine Tricks – 30 ehrliche Conversion-Hebel":** Wer ist Autor:in, welche Zielgruppe wird angesprochen? Der Titel passt inhaltlich nicht zum Mutmacher-Programm – bevor er auf Social Media beworben wird, sollte geklärt werden, ob er über einen eigenen (ggf. B2B-/LinkedIn-)Kanal statt über die Mutmacher-Kanäle vermarktet werden sollte.
+6. **Podcast-/Blog-Repurposing-Workflow festlegen:** Wer schneidet Audiogramme/Reels aus den Freitagsfolgen, wer erstellt die Carousel-Zusammenfassungen der Blogartikel (Abschnitt 4.2)? Ohne festen Verantwortlichen bleibt dieser größte kurzfristige Hebel ungenutzt.
+7. **Kursangebot beobachten:** Sobald die auf der Website angekündigten Online-Kurse konkret werden, sollten sie in die LinkedIn-Strategie (Abschnitt 7) und den 90-Tage-Fahrplan (Abschnitt 16) aufgenommen werden.
