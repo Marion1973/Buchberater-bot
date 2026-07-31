@@ -79,6 +79,25 @@ Die Website selbst weist bislang **keine Social-Media-Links** aus (weder Header 
 
 Diese Kanäle sollten außerdem im Footer/Header der Website verlinkt werden, sobald final entschieden ist, ob dauerhaft über Werner Zimmers Profile gepostet wird oder zusätzlich dedizierte Unternehmensseiten „KopfHoch Verlag" entstehen (z. B. für Facebook-/Instagram-Ads, die eine Seite statt eines Profils voraussetzen können, siehe Abschnitt 12). Zur Erinnerung: Marion Benders eigene, davon unabhängige Social-Profile gehören zu ihrem separaten Redner:innen-Marketing (siehe Abgrenzung oben) und sind hier nicht Gegenstand.
 
+### 1.6 Performance-Insights der letzten 28–30 Tage (per Screenshot verifiziert)
+
+**Facebook (28 Tage):**
+- Aufrufe: 8.235 (**+63 %** ggü. Vorperiode)
+- Interaktionen: 398 (**+38 %**)
+- Netto-Follower: **+19**, allerdings **-56 %** Wachstumstempo ggü. Vorperiode
+- Kleine Monetarisierung aktiv (vermutlich Reels-Bonusprogramm, 0,74 $, -27 %) – für die Content-Strategie nicht relevant, zeigt aber, dass das Profil für Meta-Monetarisierung freigeschaltet ist
+- Laut Dashboard-Widget: 9/20 Beiträge, 2/14 Stories – deutet auf ein noch nicht ausgeschöpftes, unregelmäßiges Postingpensum hin
+
+**Instagram (30 Tage):**
+- Aufrufe: 3.426 gesamt
+- Reichweiten-Mix: 43,7 % Follower, 56,3 % Nicht-Follower – der Content erreicht überwiegend neue Menschen (gut für Discovery)
+- **Netto-Follower: -33** – trotz wachsender Aufrufe verliert der Account im Beobachtungszeitraum mehr Follower, als er gewinnt. Das widerspricht der reinen Reichweiten-Perspektive und sollte vorrangig angegangen werden (z. B. klarere „Folgen"-Call-to-Action am Reel-Ende, konsequentere Ausrichtung an den Content-Säulen statt Alltagsschnappschüssen)
+- Einzelbeiträge zeigen niedrige Interaktion im Verhältnis zu den Aufrufen: z. B. 335 Aufrufe bei 1 Like/2 Kommentaren, 161 Aufrufe bei 2 Likes, 72 Aufrufe bei 5 Likes/1 Kommentar
+- **Bestperformer im aktuellen Batch:** ein Foto von Marion Bender auf der Bühne („Der erste Schritt") mit 328 Aufrufen – deutlich mehr als parallel geteilte private Alltagsfotos (Himmel, Bäume, Strand-Selfies: 25–88 Aufrufe)
+- Content-Mix aktuell **nicht konsequent** an den Content-Säulen (Abschnitt 4) ausgerichtet: neben klar markenbezogenem Content (Podcast-Teaser, Buchzitat-Handschrift, Bühnenfoto, ein Zitat zu Pferden aus Marions Geschichte) laufen auch generische private Schnappschüsse ohne erkennbaren Buch-/Verlagsbezug mit
+
+**Konsequenz:** Die klar markenbezogenen Beiträge performen sichtbar besser als die generischen Alltagsfotos – das bestätigt die Content-Säulen 1–2 („… beginnt im Kopf"-Reihe, ehrliche Lebensgeschichte) und 6 (Podcast-Repurposing) als die vielversprechendsten Formate und liefert ein starkes Argument, den Redaktionsplan (Abschnitt 8) konsequent statt ad hoc umzusetzen.
+
 ---
 
 ## 2. Markenstimme (Brand Voice) – verbindlich für alle Kanäle
@@ -304,21 +323,22 @@ Da das Buchthema Querschnittlähmung, Mobbing und existenzielle Krisen berührt,
 
 ## 15. KPIs & Erfolgsmessung
 
-| Plattform | Follower-Baseline (31.07.2026) | Primäre KPI | Sekundäre KPI |
-|---|---|---|---|
-| Facebook | 1.505 | Klicks zur Leseprobe/Shop | Gruppenwachstum, Engagement-Rate |
-| Instagram | 2.736 | Reichweite/Profilbesuche über Reels | Story-Interaktionen, Leseprobe-Klicks |
-| LinkedIn | 793 | Klicks zum Shop / Kontaktaufnahmen von Persona C (HR/Unternehmen) | Post-Impressionen, Kommentare, Mengenbestellungen |
+| Plattform | Follower-Baseline (31.07.2026) | Aufrufe (28/30 Tage) | Netto-Follower-Trend | Primäre KPI | Sekundäre KPI |
+|---|---|---|---|---|---|
+| Facebook | 1.505 | 8.235 (+63 %) | +19 (Tempo -56 %) | Klicks zur Leseprobe/Shop | Gruppenwachstum, Engagement-Rate |
+| Instagram | 2.736 | 3.426 | **-33** | Reichweite/Profilbesuche über Reels, Netto-Follower zurück ins Positive bringen | Story-Interaktionen, Leseprobe-Klicks |
+| LinkedIn | 793 | – (noch zu erheben) | – (noch zu erheben) | Klicks zum Shop / Kontaktaufnahmen von Persona C (HR/Unternehmen) | Post-Impressionen, Kommentare, Mengenbestellungen |
 
-Monatliches Reporting: Follower-Wachstum gegenüber obiger Baseline, Reichweite, Klicks zur Website, Leseprobe-Anmeldungen (Klaviyo), Shop-Conversions (falls per Analytics zuordenbar). **Noch offen:** genaue Engagement-Rate und Reichweiten-Trend der letzten 90 Tage sowie Insights zum bereits erfolgreichen 12,2-Tsd.-Reel liegen nur im jeweiligen Account selbst vor und sollten für ein realistisches Wachstumsziel ergänzt werden.
+Monatliches Reporting: Follower-Wachstum gegenüber obiger Baseline, Reichweite, Klicks zur Website, Leseprobe-Anmeldungen (Klaviyo), Shop-Conversions (falls per Analytics zuordenbar). **Prioritäres Ziel für Monat 1:** den negativen Netto-Follower-Trend auf Instagram (-33/30 Tage) stoppen, siehe Abschnitt 1.6. Für LinkedIn liegen noch keine Insights-Screenshots vor – dort sollten Aufrufe und Netto-Follower-Trend nachgetragen werden, sobald verfügbar.
 
 ---
 
 ## 16. 90-Tage-Fahrplan
 
 **Monat 1 – Fundament**
+- **Priorität:** negativen Instagram-Netto-Follower-Trend (-33/30 Tage, siehe 1.6) stoppen – Content konsequent auf die Content-Säulen ausrichten statt private Alltagsfotos zu mischen, „Folgen"-CTA in Reels einbauen
 - Redaktionsplan starten, Design-Vorlagen (Zitatkarten, Reel-Intro) erstellen – im bereits etablierten Look der bestehenden Profile
-- Bestehendes Top-Reel (12,2 Tsd. Aufrufe) und Instagram-Highlights auswerten, um Hook/Format für neue Beiträge abzuleiten; Instagram-Highlights um „Leseprobe" und „Peer-Beratung" ergänzen; Link-Hub `werner62.bio.link` auf Aktualität prüfen
+- Bestehendes Top-Reel (12,2 Tsd. Aufrufe) und das gut performende Bühnenfoto mit Marion Bender (328 Aufrufe) auswerten, um Hook/Format für neue Beiträge abzuleiten; Instagram-Highlights um „Leseprobe" und „Peer-Beratung" ergänzen; Link-Hub `werner62.bio.link` auf Aktualität prüfen
 - Prüfen, ob hinter der „KopfHoch-Verlag"-Verknüpfung auf LinkedIn bereits eine Unternehmensseite steht; Entscheidung Personal-Profil vs. zusätzliche dedizierte Verlagsseiten treffen (Abschnitt 1.5)
 - Erste Content-Säule „… beginnt im Kopf" produzieren (10–15 Assets als Vorrat)
 
@@ -336,10 +356,11 @@ Monatliches Reporting: Follower-Wachstum gegenüber obiger Baseline, Reichweite,
 
 ## 17. Offene Punkte / nächste Schritte
 
-1. **Account-Insights nachreichen:** Follower-Zahlen sind jetzt bekannt (siehe 1.5/15); es fehlen noch Engagement-Rate, Reichweiten-Trend der letzten 90 Tage und die genauen Insights zum bereits erfolgreichen 12,2-Tsd.-Reel auf Instagram – nur im jeweiligen Account selbst einsehbar.
-2. **Existenz einer LinkedIn-Unternehmensseite „KopfHoch-Verlag" klären:** Auf Werner Zimmers LinkedIn-Profil erscheint bereits eine Verknüpfung zu „KopfHoch-Verlag" – prüfen, ob dahinter schon eine Unternehmensseite steht, bevor eine neue angelegt wird.
-3. **Entscheidung Personal-Profil vs. zusätzliche dedizierte Verlagsseiten:** Klären, ob Werner Zimmers bestehende, bereits markengerechte Profile weitergeführt oder zusätzlich eigene Facebook-/Instagram-/LinkedIn-Unternehmensseiten „KopfHoch Verlag" aufgebaut werden (siehe 1.5) – und die final genutzten Kanäle anschließend auf der Website (Header/Footer) verlinken, da aktuell keine Social-Links auf kopfhoch-verlag.de vorhanden sind.
-4. **Freigabeprozess:** Wer produziert/genehmigt Inhalte (Marion Bender, Werner Zimmer, externe Agentur)? Sollte vor Start des 90-Tage-Fahrplans festgelegt werden.
-5. **Klärung „Menschen kaufen keine Tricks – 30 ehrliche Conversion-Hebel":** Wer ist Autor:in, welche Zielgruppe wird angesprochen? Der Titel passt inhaltlich nicht zum Mutmacher-Programm – bevor er auf Social Media beworben wird, sollte geklärt werden, ob er über einen eigenen (ggf. B2B-/LinkedIn-)Kanal statt über die Mutmacher-Kanäle vermarktet werden sollte.
-6. **Podcast-/Blog-Repurposing-Workflow festlegen:** Wer schneidet Audiogramme/Reels aus den Freitagsfolgen, wer erstellt die Carousel-Zusammenfassungen der Blogartikel (Abschnitt 4.2)? Ohne festen Verantwortlichen bleibt dieser größte kurzfristige Hebel ungenutzt.
-7. **Kursangebot beobachten:** Sobald die auf der Website angekündigten Online-Kurse konkret werden, sollten sie in die LinkedIn-Strategie (Abschnitt 7) und den 90-Tage-Fahrplan (Abschnitt 16) aufgenommen werden.
+1. **Instagram-Follower-Rückgang klären:** -33 Netto-Follower in 30 Tagen (siehe 1.6) trotz wachsender Aufrufe – Ursache eingrenzen (z. B. Content-Mix mit vielen unmarkierten Alltagsfotos, fehlende „Folgen"-CTA) und als erste Maßnahme in Monat 1 des Fahrplans angehen.
+2. **LinkedIn-Insights nachreichen:** Für Facebook und Instagram liegen bereits 28/30-Tage-Kennzahlen vor (siehe 1.6); für LinkedIn fehlen noch Aufrufe/Impressionen und Follower-Trend der letzten Wochen.
+3. **Existenz einer LinkedIn-Unternehmensseite „KopfHoch-Verlag" klären:** Auf Werner Zimmers LinkedIn-Profil erscheint bereits eine Verknüpfung zu „KopfHoch-Verlag" – prüfen, ob dahinter schon eine Unternehmensseite steht, bevor eine neue angelegt wird.
+4. **Entscheidung Personal-Profil vs. zusätzliche dedizierte Verlagsseiten:** Klären, ob Werner Zimmers bestehende, bereits markengerechte Profile weitergeführt oder zusätzlich eigene Facebook-/Instagram-/LinkedIn-Unternehmensseiten „KopfHoch Verlag" aufgebaut werden (siehe 1.5) – und die final genutzten Kanäle anschließend auf der Website (Header/Footer) verlinken, da aktuell keine Social-Links auf kopfhoch-verlag.de vorhanden sind.
+5. **Freigabeprozess:** Wer produziert/genehmigt Inhalte (Marion Bender, Werner Zimmer, externe Agentur)? Sollte vor Start des 90-Tage-Fahrplans festgelegt werden.
+6. **Klärung „Menschen kaufen keine Tricks – 30 ehrliche Conversion-Hebel":** Wer ist Autor:in, welche Zielgruppe wird angesprochen? Der Titel passt inhaltlich nicht zum Mutmacher-Programm – bevor er auf Social Media beworben wird, sollte geklärt werden, ob er über einen eigenen (ggf. B2B-/LinkedIn-)Kanal statt über die Mutmacher-Kanäle vermarktet werden sollte.
+7. **Podcast-/Blog-Repurposing-Workflow festlegen:** Wer schneidet Audiogramme/Reels aus den Freitagsfolgen, wer erstellt die Carousel-Zusammenfassungen der Blogartikel (Abschnitt 4.2)? Ohne festen Verantwortlichen bleibt dieser größte kurzfristige Hebel ungenutzt.
+8. **Kursangebot beobachten:** Sobald die auf der Website angekündigten Online-Kurse konkret werden, sollten sie in die LinkedIn-Strategie (Abschnitt 7) und den 90-Tage-Fahrplan (Abschnitt 16) aufgenommen werden.
