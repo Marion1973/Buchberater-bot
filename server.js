@@ -251,6 +251,7 @@ app.post("/chat", chatRateLimit, async (req, res) => {
 
     const response = await openai.responses.create({
       model: process.env.OPENAI_MODEL || "gpt-4.1-mini",
+      store: false,
       input,
       max_output_tokens: 350
     });
